@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MenuItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,11 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pluralsight.candycoded" />
+    </key>
   </component>
   <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -168,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601473435778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="StartTheStoreInformationActivity">
+      <created>1601553269162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601553269162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,18 +195,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601470950328" />
-    <state x="149" y="0" key="CommitChangelistDialog2" timestamp="1601475216966">
+    <state x="149" y="0" key="CommitChangelistDialog2" timestamp="1601553266346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="149" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601475216966" />
+    <state x="149" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601553266346" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1601470994338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601470994338" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601475229690">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601553283737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601475229690" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601553283737" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1601552523062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
