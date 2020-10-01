@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MenuItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,13 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -168,29 +177,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="StartTheStoreInformationActivity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601473300272">
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1601552957585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601473300272" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601552957585" />
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601470950328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601470950328" />
-    <state x="149" y="0" key="CommitChangelistDialog2" timestamp="1601473432169">
+    <state x="149" y="0" key="CommitChangelistDialog2" timestamp="1601475216966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="149" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601473432169" />
+    <state x="149" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601475216966" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1601470994338">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601470994338" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601473445016">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1601475229690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601473445016" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1601471935795">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601475229690" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1601552523062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601471935795" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601552523062" />
   </component>
 </project>

@@ -74,6 +74,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
+    protected boolean onOptionsItemSelected(MenuItem item) {
+        return super.onPrepareOptionsPanel(view, menu);
+    }
+
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.main, menu);
